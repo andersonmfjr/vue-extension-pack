@@ -1,0 +1,31 @@
+{
+    "name": "vue-extension-pack",
+    "displayName": "Vue Extension Pack",
+    "description": "Vue extension pack",
+    "publisher": "andersonmfjr",
+    "icon": "images/pack.png",
+    "version": "1.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/andersonmfjr/vue-extension-pack.git"
+    },
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "octref.vetur",
+        "dbaeumer.vscode-eslint",
+        "andersonmfjr.vue-jumptotag",
+        "esbenp.prettier-vscode",
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "capaj.vscode-standardjs-snippets",
+        "coenraads.bracket-pair-colorizer",
+        "editorconfig.editorconfig",
+        "andersonmfjr.vue-snippets-standardjs",
+        "christian-kohler.npm-intellisense"
+    ]
+}
