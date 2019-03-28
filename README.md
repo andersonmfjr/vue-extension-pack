@@ -15,3 +15,5 @@ A collection of extensions for working with Vue in VS Code
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 - [npm Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 - [Javascript Snippets StandardJS](https://marketplace.visualstudio.com/items?itemName=capaj.vscode-standardjs-snippets)
+- [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Format Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle)
